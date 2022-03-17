@@ -1,0 +1,6 @@
+﻿  CODEHANGMAN.cpp
+F:\C++\20021599_NgoHoangKhanhVan\CODEHANGMAN.cpp(946,29): warning C4566: character represented by universal-character-name '\U0001F641' cannot be represented in the current code page (1252)
+F:\C++\20021599_NgoHoangKhanhVan\CODEHANGMAN.cpp(948,29): warning C4566: character represented by universal-character-name '\U0001F603' cannot be represented in the current code page (1252)
+F:\C++\20021599_NgoHoangKhanhVan\CODEHANGMAN.cpp(171): warning C4715: 'level': not all control paths return a value
+F:\C++\20021599_NgoHoangKhanhVan\CODEHANGMAN.cpp(435): warning C4715: 'Replay': not all control paths return a value
+  20021599_NgoHoangKhanhVan.vcxproj -> F:\C++\20021599_NgoHoangKhanhVan\Debug\20021599_NgoHoangKhanhVan.exe
